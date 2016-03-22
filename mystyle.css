@@ -1,0 +1,38 @@
+/*General Styles*/
+
+html {
+	background-color: black;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	color: white;
+}
+
+* {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+ul li {
+	list-style: none;
+	color: white;
+	display: inline-block;
+	margin-right: 1em;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+}
+
+a:visited {
+	color: red;
+}
